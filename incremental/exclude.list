@@ -1,0 +1,9 @@
+Inbox
+Maildir
+backups
+user_backups
+admin_backups
+imap
+aquota.group
+aquota.user
+.cagefs
